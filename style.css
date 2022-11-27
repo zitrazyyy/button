@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Nerko+One&family=Rubik&family=Rubik+Microbe&display=swap');
+body{
+  background-color: rgb(90 81 139);
+}
+.inner{
+  display: block;
+  font-family: 'DM Sans', sans-serif;
+  padding: 4px 28px;
+  height: 45px;
+  width: 130px;
+  font-size: 24px;
+  border-radius: 7px;
+  border: none;
+  background: hsl(0deg 91% 82%);
+  color: hsl(250deg 32% 42%);
+  cursor: pointer;
+  margin: 400px auto;
+}
+.inner:hover {
+  opacity: 0.8;
+  border: 2px solid rgb(87, 70, 170);
+  height: 60px;
+  width: 150px;
+  font-size: 30px;
+  transition: 0.4s;
+  padding: 4px 28px;
+  margin: 390px auto;
+
+}
+  
+
